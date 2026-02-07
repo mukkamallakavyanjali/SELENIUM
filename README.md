@@ -72,5 +72,6 @@ Steps to execute the project
 
 Output
 ![Image](https://github.com/user-attachments/assets/3a48d55f-3d74-4790-bc7a-f2e195aef66c)
-[Imttps://gage](hithub.com/user-attachments/assets/ce8794cd-902f-42a7-a520-b5174c9903b4)
+![Image](https://github.com/user-attachments/assets/b5309383-6bb2-4e14-a561-de4876800271)
+
 
