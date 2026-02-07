@@ -71,5 +71,5 @@ Steps to execute the project
 14.Save scripts and screenshots in the project folder.
 
 Output
-Image. Image
+IImage](https://github.com/user-attachments/assets/a03fcf24-907b-45fa-99e2-2c148bb037da)
 
